@@ -19,6 +19,6 @@ setuptools.setup(
     packages=setuptools.find_packages(),
     python_requires='>=3.8',
     url="https://github.com/larkintuckerllc/example-prj-sckmkny",
-    version="0.1.2",
+    version="0.2.0",
 )
 

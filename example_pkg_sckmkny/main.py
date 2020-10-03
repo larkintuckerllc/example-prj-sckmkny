@@ -1,2 +1,6 @@
+import requests
+
+
 def hello():
-    print('Hello World!')
+    response = requests.get('https://api.github.com')
+    print(response.status_code)
