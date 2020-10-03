@@ -1,3 +1,3 @@
-# Example Package Sckmkny
+# Example Project Sckmkny
 
-A small example package
+A small example project with single package.
